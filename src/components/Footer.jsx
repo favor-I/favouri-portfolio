@@ -2,7 +2,7 @@ export default function Footer() {
   return (
     <footer className="border-t border-outline px-6 py-8 flex flex-wrap items-center justify-between gap-4">
       <p className="font-head text-[11px] text-slate tracking-[0.05em]">
-        ⊙ SOFTWARE ENGINEERING &nbsp; © 2026 Favour Ifeanacho. ⊡ &lt;/&gt;
+        ⊙ SOFTWARE ENGINEER &nbsp; © 2026 Favour Ifeanacho. ⊡ &lt;/&gt;
       </p>
       <div className="flex gap-6">
         {[
